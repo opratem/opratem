@@ -1,13 +1,13 @@
 ### Praise Olufemi
 
-Software engineer in Lagos. I build backend systems and AI-enabled products, and lead their delivery.
+Software Engineer in Lagos, Nigeria. I build backend systems and AI enabled products, and lead their delivery.
 
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/opratem/badge.svg)](https://hub.xerj.org/contributors/opratem)
 
 **Currently**
 
-- CTO and co-founder of [HoldBridge](https://holdbridge.co), a crypto escrow and peer-to-peer trading platform
-- Software and AI engineer at GN128 Solutions, building AI agents and automation for client businesses
+- CTO and co-founder of [HoldBridge](https://holdbridge.co), a crypto escrow and peer to peer trading platform
+- Software and AI engineer at [GN128 Solutions](https://gn128.com), building AI agents and automation for client businesses
 - Lead software and product engineer at [Edugist](https://edugist.org), on education data and civic platforms
 
 **Recent open source**
